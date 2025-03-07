@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Read API key from environment variable
-app_key = os.getenv("GOOGLE_APP_KEY")
+app_key = "AIzaSyCKD47HOv99aWEyvJcoPZzfSetSDAIxF-U"
 
 st.set_page_config(
     page_title="Swast_AI",
