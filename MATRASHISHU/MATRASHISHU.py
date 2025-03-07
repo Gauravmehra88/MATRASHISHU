@@ -10,7 +10,7 @@ from utils import SAFETY_SETTTINGS
 load_dotenv()
 
 # Get the GOOGLE_API_KEY from the environment variables
-google_api_key = "AIzaSyCpaLVfX37D4QpFQoPySsXJyHd7EPbDbzY"
+google_api_key = "AIzaSyCKD47HOv99aWEyvJcoPZzfSetSDAIxF-U"
 
 
 page_icon_path = "logo.png"
@@ -28,7 +28,7 @@ st.title("MATRASHISHU.AI")
 st.caption("रोग मुक्त जीवन, स्वस्थ भविष्य!")
 
 try:
-    genai.configure(api_key="AIzaSyCpaLVfX37D4QpFQoPySsXJyHd7EPbDbzY")
+    genai.configure(api_key="AIzaSyCKD47HOv99aWEyvJcoPZzfSetSDAIxF-U")
 except AttributeError as e:
     st.warning("Please Configure Gemini App Key First.")
 
