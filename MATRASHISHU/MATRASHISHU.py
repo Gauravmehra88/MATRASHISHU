@@ -10,7 +10,7 @@ from utils import SAFETY_SETTTINGS
 load_dotenv()
 
 # Get the GOOGLE_API_KEY from the environment variables
-google_api_key = "AIzaSyCKD47HOv99aWEyvJcoPZzfSetSDAIxF-U"
+google_api_key = "AIzaSyBue5KqNeZoqOD9L8r2d0oQPEtSd3qYGM8"
 
 
 page_icon_path = "logo.png"
