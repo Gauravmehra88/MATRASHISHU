@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Read API key from environment variable
-app_key = "AIzaSyCKD47HOv99aWEyvJcoPZzfSetSDAIxF-U"
+app_key = "AIzaSyBue5KqNeZoqOD9L8r2d0oQPEtSd3qYGM8"
 
 st.set_page_config(
     page_title="Swast_AI",
